@@ -2,7 +2,7 @@
 
 ![enter image description here](https://miro.medium.com/proxy/1*ZqZCewk1zZOghuIDqsp6VA.png)
 
-This project analyzes a superstore's customer data that operates in 13 global regions and sells mainly office supplies, furniture and technology. Specifically, this report uses the apriori algorithm to observe customer purchase behavior and to anlayze common purchase bundles.
+This project analyzes a superstore's customer dataset that operates in 13 global regions and sells mainly office supplies, furniture and technology. Specifically, this report uses the apriori algorithm to observe customer purchase behavior and to anlayze common purchase bundles.
 
 
 ## Steps
